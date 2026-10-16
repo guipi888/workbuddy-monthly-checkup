@@ -1,3 +1,17 @@
+---
+name: workbuddy-monthly-checkup
+description: 每月自动读取 WorkBuddy 全量对话记录，从时间分配、话题焦点、决策质量、情绪模式、成长轨迹、未完成事项 6 个维度进行深度诊断，生成结构化报告，发现行为盲区与目标失焦。
+version: 1.0.0
+author: guipi888
+triggers:
+  - 月度体检
+  - 对话诊断
+  - 月度诊断
+  - 诊断上月对话
+homepage: https://github.com/guipi888/workbuddy-monthly-checkup
+license: MIT
+---
+
 # WorkBuddy 月度体检
 
 **技能名**：WorkBuddy 月度体检  
