@@ -201,5 +201,10 @@ MIT
 
 ## 反馈与贡献
 
-- **Issues**：[GitHub Issues](https://github.com/你的用户名/workbuddy-monthly-checkup/issues)
+- **Issues**：[GitHub Issues](https://github.com/guipi888/workbuddy-monthly-checkup/issues)
 - **知识星球**：桂皮（guipi996）
+
+---
+
+> 💡 更多实用 AI 效率工具和技能，领取自媒体 IP&超级个体&一人公司资料，关注公众号「桂皮AI实战」
+> 📱 加入自媒体&AI 副业变现交流群：https://e418e2e692454bfaa8b6206e3f0ba789.app.codebuddy.work
