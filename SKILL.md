@@ -8,6 +8,20 @@ triggers:
   - 对话诊断
   - 月度诊断
   - 诊断上月对话
+trigger:
+  - 月度体检
+  - 对话诊断
+  - 月度诊断
+  - 诊断上月对话
+category:
+  - 效率工具
+tags:
+  - AI效率
+  - 复盘
+  - 月度总结
+  - 对话分析
+  - 时间管理
+  - 目标管理
 homepage: https://github.com/guipi888/workbuddy-monthly-checkup
 license: MIT
 ---
