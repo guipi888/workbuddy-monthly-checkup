@@ -60,7 +60,7 @@
 
 1. **克隆技能仓库**
    ```bash
-   git clone https://github.com/你的用户名/workbuddy-monthly-checkup.git ~/.workbuddy/skills/WorkBuddy\ 月度体检/
+   git clone https://github.com/guipi888/workbuddy-monthly-checkup.git ~/.workbuddy/skills/WorkBuddy\ 月度体检/
    ```
 
 2. **重启 WorkBuddy**
