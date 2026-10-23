@@ -2,10 +2,10 @@
 name: workbuddy-monthly-checkup
 slug: workbuddy-monthly-checkup
 displayName: WorkBuddy 月度体检
-description: 每月自动读取 WorkBuddy 全量对话记录，从时间分配、话题焦点、决策质量、情绪模式、成长轨迹、未完成事项 6 个维度进行深度诊断，生成结构化报告，发现行为盲区与目标失焦。
-version: 1.0.0
+description: 这个月时间都花在哪了？和 AI 的对话帮你成长了吗？WorkBuddy 月度体检（monthly review / conversation audit / 月度复盘）每月自动读取 WorkBuddy 全量对话记录，从时间分配、话题焦点、决策质量、情绪模式、成长轨迹、未完成事项 6 个维度深度诊断，生成结构化报告，发现行为盲区与目标失焦。当用户说"月度体检""诊断上月对话""月度复盘""我这个月干了什么"时触发。触发词：月度体检、对话诊断、月度复盘、月度总结、AI使用复盘、monthly review。
+version: 1.0.1
 author: guipi888
-triggers:
+trigger:
   - 月度体检
   - 对话诊断
   - 月度诊断
